@@ -23,7 +23,7 @@
 
 ### Список идентификаторов
 
-...
+[Семантическое версионирование - x01 - 2.0.0](./rus_version/Семантическое%20версионирование%20RUS.md)
 
 ## English
 
@@ -43,4 +43,4 @@ A set of specific documents that can be used in my repositories/projects.
 
 ### List of identifiers
 
-...
+[Semantic Versioning - x01 - 2.0.0](./eng_version/Semantic%20Versioning%20ENG.md)
