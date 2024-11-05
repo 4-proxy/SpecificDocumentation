@@ -46,4 +46,5 @@ A set of specific documents that can be used in my repositories/projects.
 
 ### List of identifiers
 
-[Semantic Versioning - x01 - 2.0.0](./eng_version/Semantic%20Versioning%20ENG.md)
+[Semantic Versioning - x01 - 2.0.0](./eng_version/Semantic%20Versioning%20ENG.md)  
+[Documentation standard - x04 - 1.0.0](./eng_version/Documentation%20standard.pdf)
